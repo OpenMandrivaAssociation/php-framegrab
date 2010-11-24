@@ -6,7 +6,7 @@
 Summary:	A video frame grabber extension
 Name:		php-%{modname}
 Version:	0.1.1
-Release:	%mkrel 3
+Release:	%mkrel 4
 Group:		Development/PHP
 License:	PHP License
 URL:		http://pecl.php.net/package/framegrab/
