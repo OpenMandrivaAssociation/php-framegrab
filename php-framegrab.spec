@@ -9,7 +9,7 @@ Version:	0.1.1
 Release:	%mkrel 11
 Group:		Development/PHP
 License:	PHP License
-URL:		http://pecl.php.net/package/framegrab/
+URL:		https://pecl.php.net/package/framegrab/
 Source0:	http://pecl.php.net/get/framegrab-%{version}.tgz
 Source1:	B11_framegrab.ini
 BuildRequires:	libpng-devel
