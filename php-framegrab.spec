@@ -12,6 +12,11 @@ License:	PHP License
 URL:		https://pecl.php.net/package/framegrab/
 Source0:	http://pecl.php.net/get/framegrab-%{version}.tgz
 Source1:	B11_framegrab.ini
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	libpng-devel
 BuildRequires:	pkgconfig
 BuildRequires:	php-devel >= 3:5.2.0
